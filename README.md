@@ -17,9 +17,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on KIOSTORE project with the awesome KIO Team.
+- 🔭 I’m currently working on several projects.
 
-- 🌱 I’m currently learning TypeScript.  
+- 🌱 I’m currently learning React Native.  
 
 - 👯 I’m looking to collaborate on Projects, Tech Articles. 
 
