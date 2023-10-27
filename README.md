@@ -6,7 +6,7 @@
 ### <div align="center">I'm Majid, a full-time front-end developer working with ReactJS</div>  
   
 
-- 🔭 I’m currently working on MPS-DZ projects  
+- 🔭 I’m currently working at BPCE-IT  
   
 
 - 🌱 I’m currently learning Typescript  
